@@ -1,34 +1,118 @@
 <h1 align="center">Hi 👋, I'm Baireya</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhat-coder77&label=Profile%20views&color=0e75b6&style=flat" alt="prabhat-coder77" /> </p>
+<h3 align="center">
+🚀 Java Backend Developer | Spring Boot Developer | REST API Enthusiast
+</h3>
 
-- 🔭 I’m currently working on [Enterprise Resource Scheduling & Orchestration 
-System Domain: Healthcare Resource Management. A scalable backend system with role-based access]
-
-- 🌱 I’m currently learning **Advanced Backend & Cloud-Native Architecture**
-
-- 👯 I’m looking to collaborate on [Java / Spring Boot Backend Projects](Open to contributions & collaborations)
-
-- 🤝 I’m looking for help with [Designing large-scale systems, handling high traffic, and improving system resilience](System design trade-offs, microservice communication patterns, fault tolerance, and performance optimization at scale)
-
-- 👨‍💻 All of my projects are available at [https://github.com/LB-Reddy26](https://github.com/LB-Reddy26)
-
-- 📝 I regularly write articles on [Coming soon – Backend & Java concepts](Coming soon – Backend & Java concepts)
-
-- 💬 Ask me about **Java, Spring Boot, Spring Security, JWT, Hibernate (JPA), Kafka, Feign Client, Docker, Kubernetes (EKS), AWS (EC2, S3), API Gateway, Eureka Server, Zipkin, Spring Boot Admin Server, Terraform, Redis, MySQL, ELK Stack, SendGrid, Twilio, GitHub, Maven, SLF4J**
-
-- 📫 How to reach me **baireyareddy123@gmail.com**
-
-- ⚡ Fun fact **I enjoy turning real-world problems into clean, scalable backend solutions 😄**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;Building+Scalable+Applications;REST+API+Developer;Always+Learning+New+Technologies"
+/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+<p align="center">
+<a href="https://github.com/LB-Reddy26">
+<img src="https://komarev.com/ghpvc/?username=LB-Reddy26&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+</a>
+</p>
+<table>
+<tr>
+<td width="40%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3M4MjV3eG9xZnlyb3M1dWQzM3VhMnA0d3JydW1nZ2g3b2N3ZmM3NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"
+width="320"/>
+</td>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhat-coder77&show_icons=true&locale=en&layout=compact" alt="prabhat-coder77" /></p>
+<td width="65%">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhat-coder77&show_icons=true&locale=en" alt="prabhat-coder77" /></p>
+<h3>Java Backend Developer | Spring Boot Developer</h3>
+
+- 🔭 Currently working on Java Backend Projects
+- 🌱 Learning Spring Boot Microservices
+- 💻 Skilled in Java, JDBC, Servlets, JSP, Spring Boot
+- 🗄️ MySQL & MongoDB
+- 🚀 Passionate about Backend Development
+- ⚡ Exploring DevOps & Cloud Technologies
+- 🎯 Goal: Become a Software Engineer at a Product-Based Company
+
+</td>
+</tr>
+</table>
+
+  ## 🛠 Tech Stack
+
+### Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Frontend
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+### DevOps Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## 🚀 Featured Projects
+
+### ❤️ Cardiovascular Disease Prediction System
+
+- IoT Sensor Integration
+- Machine Learning Prediction
+- SHAP & LIME Explainability
+- MongoDB Database
+
+### ✈️ Flight Management System
+
+- Spring Boot
+- JPA/Hibernate
+- MySQL
+- REST APIs
+
+### 📝 Online Examination System
+
+- Java
+- Spring Boot
+- Authentication
+- Result Processing
+- 
+## 🔥 Contribution Activity
+
+![GitHub Activity
+Graph](https://github-readme-activity-graph.vercel.app/graph?username=LB-Reddy26)
+
+## 🏆 Certifications
+
+- Java Programming
+- Spring Boot Development
+- SQL & Database Management
+- Git & GitHub
+
+ ## 📫 Connect With Me
+
+[GitHub](https://github.com/LB-Reddy26)
