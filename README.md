@@ -12,7 +12,7 @@ System Domain: Healthcare Resource Management. A scalable backend system with ro
 
 - 🤝 I’m looking for help with [Designing large-scale systems, handling high traffic, and improving system resilience](System design trade-offs, microservice communication patterns, fault tolerance, and performance optimization at scale)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Prabhat-coder77](https://github.com/LB-Reddy26)
+- 👨‍💻 All of my projects are available at [https://github.com/LB-Reddy26](https://github.com/LB-Reddy26)
 
 - 📝 I regularly write articles on [Coming soon – Backend & Java concepts](Coming soon – Backend & Java concepts)
 
